@@ -1,0 +1,27 @@
+h1 {
+    font-family: ARIAL;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+body {
+    background: linear-gradient(to right, rgb(174, 204, 243), rgb(191, 203, 243), rgb(213, 213, 240));
+}
+
+.bg {
+    margin: left;
+    background-color: rgba(127, 255, 212, 0.371);
+}
+.jarak {
+    padding: 10px;
+}
+h4 {
+    margin-left: 30px;
+    margin-top: -15px;
+    font-family: verdana;
+}
+h3 {
+    margin-left: 30px;
+    margin-top: 20px;
+    font-family: verdana;
+}

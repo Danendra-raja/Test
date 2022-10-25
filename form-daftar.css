@@ -1,0 +1,9 @@
+h1 {
+    font-family: ARIAL;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+body {
+    background: linear-gradient(to right, rgb(174, 204, 243), rgb(191, 203, 243), rgb(213, 213, 240));
+}
